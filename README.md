@@ -1,2 +1,2 @@
-# sharmagit-app
+# sharmagit-demo
 this is my frist  git-repository
